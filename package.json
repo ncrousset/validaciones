@@ -1,0 +1,24 @@
+{
+  "name": "validaciones",
+  "version": "1.0.0",
+  "description": "Validaciones de telefonos y numero de identificacion dependiendo nacionalidad",
+  "main": "./lib/validaciones",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ncrousset/validaciones.git"
+  },
+  "keywords": [
+    "validaciones",
+    "cedula",
+    "telefono"
+  ],
+  "author": "Rudys Natanael Acosta <natanael926@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ncrousset/validaciones/issues"
+  },
+  "homepage": "https://github.com/ncrousset/validaciones#readme"
+}
